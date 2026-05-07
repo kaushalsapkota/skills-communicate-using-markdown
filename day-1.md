@@ -2,8 +2,10 @@
 
 ## Morning Planning
 
-Today I started learning Markdown on GitHub.
+### Learning Goals
 
-## Review
+#### Markdown Practice
 
-I learned how headings work in Markdown.
+##### GitHub Skills
+
+###### Review Notes
